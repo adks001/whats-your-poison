@@ -1,0 +1,18 @@
+{
+  "name": "What's Your Poison?",
+  "short_name": "What's Your Poison",
+  "description": "A quick-reference guide for premium drinks, serving styles, and food pairings.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090514",
+  "theme_color": "#fbbf24",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
