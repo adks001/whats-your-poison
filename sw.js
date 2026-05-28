@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whats-your-poison-v5';
+const CACHE_NAME = 'whats-your-poison-v6';
 const ASSETS = [
   './',
   './index.html',
